@@ -1,6 +1,8 @@
 
 API Endpoints
 
+![docs](https://github.com/user-attachments/assets/929dc3c0-94cf-491b-bcc8-efd50a35ae4e)
+
 This module contains the API endpoints for the application. The endpoints are defined using the FastAPI framework.
 
 Endpoints:
