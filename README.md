@@ -1,4 +1,4 @@
-"""
+
 API Endpoints
 
 This module contains the API endpoints for the application. The endpoints are defined using the FastAPI framework.
@@ -19,5 +19,3 @@ Usage:
 
 Example:
 To retrieve an item with ID 1, send a GET request to `http://127.0.0.1:8000/items/1`.
-
-"""
