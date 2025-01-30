@@ -14,6 +14,7 @@ Dependencies:
 - FastAPI: The web framework used to create the API.
 - SQLAlchemy: The ORM used for database interactions.
 - Pydantic: Used for data validation and serialization.
+- JSON
 
 Usage:
 1. Start the FastAPI server by running `uvicorn main:app --reload`.
