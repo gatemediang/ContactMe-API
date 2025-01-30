@@ -21,4 +21,4 @@ Usage:
 2. Access the API documentation at `http://127.0.0.1:8000/docs`.
 
 Example:
-To retrieve an item with ID 1, send a GET request to `http://127.0.0.1:8000/items/1`.
+To retrieve contact details GET request to `http://127.0.0.1:8000/info`.
